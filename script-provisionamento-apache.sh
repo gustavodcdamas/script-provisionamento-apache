@@ -36,4 +36,4 @@ cd linux-site-dio
 log "Copiando arquivos da aplicacao para diretorio /www/html ...."
 cp -R * /var/www/html
 
-log "Provisionamento do servidor completado com sucesso ...."
+log "Provisionamento do servidor completado com sucesso."
